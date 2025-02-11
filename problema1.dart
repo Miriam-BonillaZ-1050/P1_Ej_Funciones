@@ -1,5 +1,5 @@
 
-  import 'dart:io'; // Importar la librería para entrada/salida¿
+  import 'dart:io'; 
 void main() {
   //problema 1
   print("Miriam Bonilla, Mat: 22308051281050");
@@ -12,8 +12,8 @@ void main() {
 
     for (int i = 0; i < cantidad; i++) {
       print("Ingrese el número ${i + 1}:");
-      int numero = int.parse(stdin.readLineSync()!); // Leer cada número
-      listaNumeros.add(numero); // Agregar el número a la lista
+      int numero = int.parse(stdin.readLineSync()!); 
+      listaNumeros.add(numero); 
     }
 
     return listaNumeros;
