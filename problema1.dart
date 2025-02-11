@@ -1,8 +1,9 @@
 //problema 1
 void main() {
   print("Miriam Bonilla, Mat: 22308051281050");
-  //lista de números enteros
-  List<int> capturarDatos() {
+
+  // Función para capturar los datos de la lista
+  List<int> capturarDatos() { 
     List<int> listaNumeros = [5, 10, 15, 20, 25, 30, 35, 40, 45, 50]; 
     return listaNumeros;
   }
@@ -14,7 +15,7 @@ void main() {
     print("Lista de números:");
     for (int numero in listaNumeros) {
       print(numero);
-      suma += numero; // Sumar cada número al total
+      suma += numero; // Suma
     }
 
     print("\nLa suma de todos los elementos es: $suma");
