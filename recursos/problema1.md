@@ -4,8 +4,4 @@ una para capturar datos de la lista y otra para mostrar los elementos.
 
 Resultados: 
 
-![alt text](image-4.png)
-
-Codigo: 
-
-![alt text](image-5.png)
+![alt text](image-6.png)
