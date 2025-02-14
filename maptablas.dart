@@ -31,7 +31,7 @@ void main() {
   };
 
   print("\nMap de Tienda Deportiva");
-  print("\nMiriam Bonilla, 22308051281050");
+  print("\nMiriam Itzel Bonilla Zapata, 22308051281050");
 
   // Mostrar los datos del producto usando un forEach
   print('\nDatos del producto:');
